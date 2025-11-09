@@ -173,3 +173,23 @@ Need help? Connect with the Base community:
 - **Discord**: Join our [Discord server](https://base.org/discord) for real-time discussions
 - **Twitter**: Follow [@base](https://twitter.com/base) for updates and announcements
 - **GitHub Discussions**: Participate in [GitHub Discussions](https://github.com/orgs/base/discussions) for technical questions
+
+## Troubleshooting
+
+Running into issues? Check these common solutions:
+
+### Preview Server Not Starting
+- Ensure Node.js v19+ is installed
+- Delete `node_modules` and run `npm install` again
+- Check if port 3000 is already in use
+
+### Build Errors
+- Clear the `.mint` cache folder
+- Verify all dependencies are installed
+- Check for syntax errors in modified files
+
+### Still Having Problems?
+Open an issue with:
+- Steps to reproduce
+- Error messages
+- Your environment details (OS, Node version)
