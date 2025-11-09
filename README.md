@@ -164,3 +164,12 @@ The core team will review opened PRs. The SLA is 2 weeks, generally on a first-c
 ## Storybook for UI components
 
 See `storybook/README.md` for details on local Storybook and component docs.
+
+
+## Community Support
+
+Need help? Connect with the Base community:
+
+- **Discord**: Join our [Discord server](https://base.org/discord) for real-time discussions
+- **Twitter**: Follow [@base](https://twitter.com/base) for updates and announcements
+- **GitHub Discussions**: Participate in [GitHub Discussions](https://github.com/orgs/base/discussions) for technical questions
